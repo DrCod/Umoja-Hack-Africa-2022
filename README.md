@@ -2,7 +2,9 @@
 
 # Brief Description
 
-The objective of this challenge is to create a machine learning model to predict how strongly a given string of amino acids from a snake venom toxin protein binds to eight different commercial antivenom antibodies., have a look on Zindi.
+The objective of this challenge is to create a machine learning model to predict how strongly a given string of amino acids from a snake venom toxin protein binds to eight different commercial antivenom antibodies.
+
+Find link to full problem description [here](https://zindi.africa/competitions/umojahack-africa-2022-advanced-challenge) 
 
 # [Leaderboard](https://zindi.africa/competitions/umojahack-africa-2022-advanced-challenge/leaderboard)
 
